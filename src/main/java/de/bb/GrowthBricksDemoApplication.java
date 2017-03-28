@@ -7,6 +7,9 @@ import org.springframework.boot.autoconfigure.SpringBootApplication;
 public class GrowthBricksDemoApplication {
 
 	public static void main(String[] args) {
+		/*
+		 * Thats a big deal app
+		 */
 		SpringApplication.run(GrowthBricksDemoApplication.class, args);
 	}
 }
