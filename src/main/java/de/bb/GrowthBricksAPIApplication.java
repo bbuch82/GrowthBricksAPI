@@ -4,12 +4,9 @@ import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
 
 @SpringBootApplication
-public class GrowthBricksDemoApplication {
+public class GrowthBricksAPIApplication {
 
 	public static void main(String[] args) {
-		/*
-		 * Thats a big deal app
-		 */
-		SpringApplication.run(GrowthBricksDemoApplication.class, args);
+		SpringApplication.run(GrowthBricksAPIApplication.class, args);
 	}
 }
